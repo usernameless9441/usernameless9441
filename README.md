@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @usernameless9441
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate? Not today
+- 💞️ I’m looking to collaborate ? Not today
 - 📫 How to reach me ? It's impossible
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: New to programming and first time using GitHub
